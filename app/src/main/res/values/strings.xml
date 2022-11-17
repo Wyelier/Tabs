@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tabs1</string>
+    <string name="tab_text_1">Вкладка 1</string>
+    <string name="tab_text_2">Вкладка 2</string>
+    <string name="tab_text_3">Вкладка 3</string>
+
+    <string name="violetFlower">Фиолетовые цветы</string>
+    <string name="redFlower">Красные цветы</string>
+    <string name="yellowFlower">Желтые цветы</string>
+</resources>
